@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Cooking with Indiana University
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Cook your eay through IU
+tagline: Get with your friends and have a fun potluck
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Get with your friends and have a fun potluck"
+description: "Cook your way through IU"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Jillian Tyler
 
