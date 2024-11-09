@@ -4,8 +4,8 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-meal-type,,true
-key-ingredients,,true
+meal-type,Meal Type,
+key-ingredients,Key Ingredients,
 latitude,Latitude
 longitude,Longitude
 source,Source
