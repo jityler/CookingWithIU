@@ -8,20 +8,14 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
+This collection contains 29 digitized items from collections from the IU Archives. These collections are C627 Student Recipes and C598 Indiana University Department of Home Economics. The motivation to create this was because the IU Archive and other Libraries on Campus use recipe cards for holidays and to give out. This way there are some recipes in once place for people to look at and use that are from IU Collections. 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
