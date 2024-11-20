@@ -15,7 +15,7 @@ credits: true
 
 This collection contains 29 digitized items from collections from the IU Archives. These collections are C627 Student Recipes and C598 Indiana University Department of Home Economics. The motivation to create this was because the IU Archive and other Libraries on Campus use recipe cards for holidays and to give out. This way there are some recipes in once place for people to look at and use that are from IU Collections. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/)!, a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)! from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
