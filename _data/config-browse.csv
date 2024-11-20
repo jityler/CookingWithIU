@@ -4,3 +4,4 @@ creator,Creator,,,
 subject,,true
 meal-type,Meal Type,true,
 key-ingredients,Key Ingredients,true,
+location,Location,true
