@@ -20,3 +20,5 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents  
 
+{% include parogi.jpg objectid="023" %}
+
