@@ -93,7 +93,7 @@ navbar-background: bg-dark
 bootswatch:  simplex
 
 # THEME FONTS
-base-font-size: 1.5em
+base-font-size: 1.8em
 text-color: "#990000"
 link-color: "#0584f4"
 base-font-family: Poppins
