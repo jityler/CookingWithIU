@@ -20,7 +20,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents  
 
-{% include feature/image.html objectid="parogi.jpgmo_001" width="75" %}
+{% include feature/image.html objectid="parogi.jpg" width="75" %}
 
 
 
