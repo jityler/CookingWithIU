@@ -16,4 +16,4 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents  
-{% include cb/about_the_about.md %}  
+
