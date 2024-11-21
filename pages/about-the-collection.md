@@ -20,5 +20,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents  
 
-{% include parogi.jpg objectid="023" %}
+{% include feature/image.html objectid="parogi.jpg" width="75" caption="Parogi Recipe" %}
+
+
 
