@@ -1,7 +1,9 @@
 ---
 title: About the Collection
 layout: about
-permalink: /about-the-collection.html
+permalink: /about-the-collection.html  
+# include CollectionBuilder info at bottom
+credits: true
 ---
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
